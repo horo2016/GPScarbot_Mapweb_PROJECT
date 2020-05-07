@@ -2,19 +2,26 @@
 
 可以通过web网页查看百度地图定位
 
-本工程分为c／c++程序和web网页程序
+ 本工程分为c／c++程序和web网页程序
 
-gps_map_server
+一 、gps_map_server 基于卡尔曼滤波的gps定位 
 
 地址 https://github.com/horo2016/gps-map-server
 
 
-web_server 
+二 、web_server 基于html的web 服务器
 
 地址
 
 https://github.com/horo2016/gps_web_server
 
+三 、基于ros的gps　catkin＿ws　包
+
+地址
+
+四　coordinate libso make制作问题
+
+地址
 
 技术支持：839602830
 
