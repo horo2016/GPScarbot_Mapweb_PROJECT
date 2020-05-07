@@ -15,6 +15,12 @@
 
 https://github.com/horo2016/gps_web_server
 
+特别注意：一二两部分需要配合共同使用才能工作。
+
+下面的第三部分需要修改代码。
+
+2020.05.07
+
 三 、基于ros的gps　catkin＿ws　包
 
 　coordinate libso make制作问题
