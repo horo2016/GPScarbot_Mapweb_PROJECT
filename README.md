@@ -17,11 +17,9 @@ https://github.com/horo2016/gps_web_server
 
 三 、基于ros的gps　catkin＿ws　包
 
-地址
+　coordinate libso make制作问题
 
-四　coordinate libso make制作问题
-
-地址
+地址   https://github.com/horo2016/coordinate-lib
 
 技术支持：839602830
 
