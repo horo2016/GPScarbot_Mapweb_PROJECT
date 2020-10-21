@@ -1,5 +1,6 @@
 # GPS_MAP_WEB
 
+开发了树莓派raspberryPi的gpspad 和mapserver以及附属的服务service中间件。
 可以通过web网页查看百度地图定位
 
  本工程分为c／c++程序和web网页程序
